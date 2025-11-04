@@ -35,3 +35,21 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Python
+__pycache__/
+*.pyc
+api/.venv/
+model/.venv/
+.env
+
+# Node / Expo
+node_modules/
+.expo/
+.expo-shared/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
